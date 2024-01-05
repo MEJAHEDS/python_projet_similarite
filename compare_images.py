@@ -21,7 +21,7 @@ def calculate_image_similarity(image1_path, image2_path):
 
 
 image1_path = './first.png'
-image2_path = './france.jpg'
+image2_path = './second.png'
 
 similarity = calculate_image_similarity(image1_path, image2_path)
 print(f"Indice de similarité : {similarity}")
